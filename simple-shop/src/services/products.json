@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "price": 424.99,
+    "product_name": "iPhone X",
+    "product_image": "../assets/iphone-x.webp",
+    "category": "Phone",
+    "producer": "Apple"
+  },
+  {
+    "id": 2,
+    "price": 829.99,
+    "product_name": "iPhone 14",
+    "product_image": "../assets/iphone-14.webp",
+    "category": "Phone",
+    "producer": "Apple"
+  },
+  {
+    "id": 3,
+    "price": 979.99,
+    "product_name": "Samsung S23",
+    "product_image": "../assets/samsung-s23.avif",
+    "category": "Phone",
+    "producer": "Samsung"
+  },
+  {
+    "id": 4,
+    "price": 588.99,
+    "product_name": "Samsung 22",
+    "product_image": "../assets/samsung-s22.webp",
+    "category": "Phone",
+    "producer": "Samsung"
+  },
+  {
+    "id": 5,
+    "price": 629.0,
+    "product_name": "Airpods Max",
+    "product_image": "../assets/airpods-max.jpeg",
+    "category": "Accessory",
+    "producer": "Apple"
+  },
+  {
+    "id": 6,
+    "price": 249.0,
+    "product_name": "Airpods Pro",
+    "product_image": "../assets/airpods-pro.png",
+    "category": "Accessory",
+    "producer": "Apple"
+  },
+  {
+    "id": 7,
+    "price": 49.0,
+    "product_name": "Samsung Galaxy Buds",
+    "product_image": "../assets/samsung-buds.avif",
+    "category": "Accessory",
+    "producer": "Samsung"
+  },
+  {
+    "id": 8,
+    "price": 183.99,
+    "product_name": "Sony WF1000XM4B",
+    "product_image": "../assets/sony-earbuds.png",
+    "category": "Accessory",
+    "producer": "Sony"
+  }
+]
